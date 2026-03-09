@@ -1,5 +1,5 @@
 # Telescopic-amplifier
-The Telescopic Amplifier is a high-gain, high-speed analog amplifier architecture widely used in CMOS analog integrated circuit design. It is a type of single-stage operational amplifier (op-amp) that achieves high gain by stacking transistors vertically, forming a telescopic structure. I designed a on GPDK180 with Vdd-1.8V and a gain of  around 51db with phase margin of 93.19 degree.
+The Telescopic Amplifier is a high-gain, high-speed analog amplifier architecture widely used in CMOS analog integrated circuit design. It is a type of single-stage operational amplifier (op-amp) that achieves high gain by stacking transistors vertically, forming a telescopic structure. I designed a on GPDK180 with Vdd-1.8V and a gain of  around 51db with a phase margin of 93.19 degrees with total power dissipation of 89.928uW and current 49.96uA.
 Architecture:
 A telescopic amplifier typically consists of the following main components:
 Differential Input Pair – Converts the input differential voltage into current.
